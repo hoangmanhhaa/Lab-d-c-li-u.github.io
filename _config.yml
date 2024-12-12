@@ -1,6 +1,6 @@
 name: 'Labs dược liệu - Trường đại học Dược Hà Nội'
 title: 'Labs dược liệu - Trường đại học Dược Hà Nội'
-description: 'We focus on the solid-state theory, quantum simulation, and machine learning for quantum materials.'
+description: 'Chúng tôi hoạt động trong các lĩnh vực: &#10• Nghiên cứu và phát triển các sản phẩm từ dược liệu tự nhiên &#10• Phân tích và đánh giá chất lượng dược liệu &#10• Khảo sát tác dụng sinh học của các hợp chất tự nhiên &#10• Tối ưu hóa quy trình chiết xuất dược liệu &#10• Phát triển các phương pháp bảo quản dược liệu
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 #baseurl: 'https://nguyen-group.github.io'
@@ -17,10 +17,10 @@ include:
 permalink: '/:title/'
 authors:
   nguyen:
-    name: Nguyen Tuan Hung
-    display_name: N. T. Hung
+    name: Hoang Manh Ha
+    display_name: H. M. Ha
     gravatar: 69bfba362c993c163b38b0c09c529797
-    email: 'hung@live.jp'
+    email: 'hmha0601@gmail.com
     web: 'https://nguyen-group.github.io/'
     twitter: 'https://twitter.com/tuanhung52'
     description: >-
